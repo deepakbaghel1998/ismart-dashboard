@@ -1,0 +1,8 @@
+{
+  "name": "iSmart HealthCare",
+  "description": "A comprehensive healthcare platform for booking doctors, lab tests, and finding care centers, featuring a robust admin panel for management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
